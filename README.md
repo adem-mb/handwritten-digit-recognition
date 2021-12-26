@@ -5,8 +5,8 @@
   * [python >= 3.6](https://www.python.org/downloads/)
   * [TensorFlow framework (for python)](https://www.tensorflow.org/install)
   * [Keras framework](https://keras.io/)
-## Working Video
-  <iframe src="https://drive.google.com/file/d/1as-6q9drFM2GEmfFlZQK2Xk_W8CC_zZO/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1as-6q9drFM2GEmfFlZQK2Xk_W8CC_zZO/preview" width="640" height="480" allow="autoplay"></iframe>
   
 ## Evaluation
   ![Accuracy](/accuracy.png)
