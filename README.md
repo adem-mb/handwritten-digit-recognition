@@ -6,7 +6,7 @@
   * [TensorFlow framework (for python)](https://www.tensorflow.org/install)
   * [Keras framework](https://keras.io/)
 ## Working Video
-  ![Video](https://drive.google.com/file/d/1as-6q9drFM2GEmfFlZQK2Xk_W8CC_zZO/preview)
+  <iframe src="https://drive.google.com/file/d/1as-6q9drFM2GEmfFlZQK2Xk_W8CC_zZO/preview" width="640" height="480" allow="autoplay"></iframe>
   
 ## Evaluation
   ![Accuracy](/accuracy.png)
